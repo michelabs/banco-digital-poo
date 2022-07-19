@@ -1,7 +1,7 @@
 <h1> Projeto do Bootcamp Amdocs Java Developer - DIO </h1>  
   
 <h2> Criando um Banco Digital com Java e Orientação a Objetos </h2>
-Desafio orientado pelo nobre <a href="https://github.com/falvojr"> FalvoVenilton FalvoJr</a>.
+Desafio orientado pelo nobre <a href="https://github.com/falvojr"> Venilton FalvoJr</a>.
 
 Nesse projeto, foi colocado em prática os principais pilares e conceitos do Paradigma de Programação Orientado a Objetos em Java com um desafio totalmente prático, sendo devidamente explorados no contexto bancário, no qual fora trabalhado:
 
